@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: Dois ou mais arquivos com o nome Ginastica.cpp produzirão saídas para o mesmo local. Isso pode levar a um resultado de compilação incorreto. Os arquivos envolvidos são D:\Ginastica.cpp, Ginastica.cpp.
+  Ginastica.cpp
+x64\Release\Ginastica.obj : warning LNK4042: objeto especificado mais de uma vez; extras ignorados
+  Ginastica.vcxproj -> C:\Users\Leandro\source\repos\Ginastica\x64\Release\Ginastica.lib
